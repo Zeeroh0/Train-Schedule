@@ -1,0 +1,52 @@
+/*https://flatuicolors.com/
+*/
+
+body {
+	background: black;
+	background: url(../images/tracks2.jpeg) no-repeat center;
+
+ 	/* Allows background image to fit perfectly on Computer screen, Ipad Screen, & Iphone Screen without any white space */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+/*	color: #2c3e50;
+*/	color: black;
+
+}
+
+.jumbotron,
+.card {
+	margin: 25px 0px;
+	border: 2px outset black;
+	background-opacity: 0.3;
+}
+
+.container {
+	min-height: 1500px;
+}
+
+.jumbotron {
+/*	background: #3498db;
+*/	background: rgba(52, 152, 219, 0.2);
+}
+
+#schedules {
+/*	background: #e67e22;
+*/	background: rgba(230, 126, 34, 0.85);
+}
+#schedulesHeader {
+/*	background: #d35400;
+*/	background: rgba(211, 84, 0, 0.3);
+}
+
+#addTrain {
+/*	background: #95a5a6;
+*/	background: rgba(149, 165, 166, 0.8);
+}
+#addTrainHeader {
+/*	background: #7f8c8d;
+*/	background: rgba(127, 140, 141, 0.6);
+}
+
+
