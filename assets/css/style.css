@@ -3,7 +3,7 @@
 
 body {
 	background: black;
-	background: url(../images/tracks2.jpeg) no-repeat center;
+	background: url(../images/tracks.jpeg) no-repeat center;
 
  	/* Allows background image to fit perfectly on Computer screen, Ipad Screen, & Iphone Screen without any white space */
     -webkit-background-size: cover;
